@@ -1,6 +1,3 @@
-# chatbot_moviebooking_actions
-chatbot_moviebooking_actions
-
 ## Instructions:
 
 - clone this repository
